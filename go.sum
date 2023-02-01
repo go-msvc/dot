@@ -1,0 +1,6 @@
+github.com/go-msvc/errors v1.1.0 h1:jbOdXDJySgXvpq3GyNo8/YWZ7x4HYyz3OxLH7nw/7o8=
+github.com/go-msvc/errors v1.1.0/go.mod h1:5C49YNbi5juDL9ntxw/QbapNHLs4M9SpJ5ETp8AN7+M=
+github.com/go-msvc/logger v0.0.0-20210121062433-1f3922644bec h1:Xrt+itPOlP+NsaQseWM00Fk0juNtqJZqCRZX8g6JV+w=
+github.com/go-msvc/logger v0.0.0-20210121062433-1f3922644bec/go.mod h1:2wVoA8rQtGPatj+5uHahKFExXJqcRHpq4an2UHuYidc=
+github.com/stewelarend/logger v0.0.4 h1:U+FhNJgbEA5YKUlSLhvk7UaPYjnuBQPkMbQvEKV9Fb8=
+github.com/stewelarend/logger v0.0.4/go.mod h1:9N9cjtsb9vHO+Noy17MDNMmH4fL1jBpGJ2HIxQyljvo=
